@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "vuelidate": "^0.7.6"
+  }
+}
